@@ -37,5 +37,11 @@ Future Work:
 - Expand the range of recognizable gestures.
 - Integrate with IoT devices for practical applications.
 - Enhance the model's accuracy with a larger dataset.
+
+Dataset:
+The dataset used to train the hand gesture recognition model is not included in this repository due to size and privacy reasons. You can:
+- Create your own dataset by capturing images using a webcam, or
+- Use publicly available datasets such as the ASL Alphabet Dataset or Hand Gesture Dataset.
+
 License:
 This project is licensed under the MIT License. See the LICENSE file for details.
